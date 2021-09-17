@@ -1,5 +1,5 @@
 FROM golang:1.14
-WORKDIR /go/src/github.com/hello-jenkins-larkintuckerllc/hello-jenkins
+WORKDIR /go/src/github.com/muzafferjoya/go-jenkins
 COPY . .
 RUN go install
 
