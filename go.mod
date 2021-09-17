@@ -1,3 +1,3 @@
-module github.com/muzafferjoya/go-jenkins/sum/sum_test.go
+module github.com/muzafferjoya/go-jenkins
 
 go 1.14
