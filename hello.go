@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hello-jenkins-larkintuckerllc/hello-jenkins/sum"
+	"github.com/muzafferjoya/go-jenkins/sum"
 )
 
 func main() {
